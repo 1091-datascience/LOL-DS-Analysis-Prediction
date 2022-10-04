@@ -1,10 +1,10 @@
 # League of Legends - Analysis and Prediction
 
 ### Group Members
-* 106306032 資管四 楊存濬
-* 106306069 資管四 汪君儫
-* 106306076 資管四 謝采辰
-* 108304056 統計二 陳岷逸
+* 106306032 Tsun-Chun Yang
+* 106306069 Chun-Hao Wang
+* 106306076 Tsai-Chen Hsieh
+* 108304056 Min-Yi Chen
 
 ### Goals
 * What are the important factors in a League of Lengends match to win?
